@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672118349 source:e:\doubelinkedlist\main.cpp
+	<iostream>
+	<string.h>
+
